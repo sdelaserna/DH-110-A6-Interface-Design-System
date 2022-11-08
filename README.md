@@ -8,7 +8,7 @@ The purpose of interface design is to further develop the low-fidelity prototypi
 ## Design Process
 First, I read the instructions given by Dr. Cho. I used the low-fidelity prototyping from the previous assignment and the current website to gain a better understanding of what changes should happen. I also looked at previous student examples for more inspiration on their design process and interface choices. I think the biggest challenge for me was to make it from a web platform to a phone platform. I started out with my original interface design--basically doing everything at once. However, now I see why Dr. Cho listed it out in a certain order because it's a lot more time consuming to change everything one by one instead of just having everything laid out. This is my first time doing something like this, so it was a lesson to be learned! I did go in order that was layed out, but I did not do all the complete variations. For the color palette, I used the current's sites colors because Dark, vibrant, red and golden yellow are the school colors. Dark blue and light blue are used on the actual website and I did not want to deviate away from it because I do not want current users to feel confused when viewing this "updated" version. 
 
-##Links to Figma file
+## Links to Figma file
 * [Figma file](https://www.figma.com/file/x16VBvTVYkLmt39Lv6ge37/Assignment-6---Interface-Design?node-id=0%3A1) with all the variations
 
 ![overall design proccess](https://github.com/sdelaserna/DH-110-A6-Interface-Design-System/blob/main/overall%20design%20process.PNG)
@@ -23,10 +23,15 @@ For my design, I went with sans serif because I wanted the site to be as accessi
 ## Color Palettes
 I just wanted it to be simple and do a light and dark mode of design for people who have their main system. I do admit, I don't think all of the colors picked check off the color contrast checker due to my colors being a warmer tone and on the vibrant side. When I did change it to check off the color contrast, it looked completely different from the feel of the first variation and it did not resemeble the school color's at all. Thus, I decided to keep it wrong color contrast.
 
+
 ![color palettes](https://github.com/sdelaserna/DH-110-A6-Interface-Design-System/blob/main/color%20palettes!.PNG)
 ![color contrast light](https://github.com/sdelaserna/DH-110-A6-Interface-Design-System/blob/main/color%20contrast%20light.PNG)
 ![color contrast dark](https://github.com/sdelaserna/DH-110-A6-Interface-Design-System/blob/main/color%20contrast%20dark.PNG)
 
+
 ## Layout
 I chose a 4 column grid with a 30px margin and a 6 row grid with a 40px margin because I thought that looked the most efficient to have space between the perimeter of the device and the actual body of information. 
+
+
 ![layout](https://github.com/sdelaserna/DH-110-A6-Interface-Design-System/blob/main/layout.PNG)
+![layout on light mode]
