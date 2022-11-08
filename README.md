@@ -20,6 +20,12 @@ For my design, I went with sans serif because I wanted the site to be as accessi
 
 ![typographic variations](https://github.com/sdelaserna/DH-110-A6-Interface-Design-System/blob/main/typographic%20variations%20assignment%206.PNG)
 
+## Shape Variations
+
+For the first design, I did sharp corners because I wanted the deisng to have an exactness feel to it because it derives from a school. However, after completing with the 3 shape variations, I think that the softly rounded corners are better. The boxy feeling kinda makes it feel like it's still in the sketchy low-fidelity protoyping stage. Rounded corners has a polished feel to it that's more inviting and appealing to the eyes. 
+
+
+
 ## Color Palettes
 I just wanted it to be simple and do a light and dark mode of design for people who have their main system. I do admit, I don't think all of the colors picked check off the color contrast checker due to my colors being a warmer tone and on the vibrant side. When I did change it to check off the color contrast, it looked completely different from the feel of the first variation and it did not resemeble the school color's at all. Thus, I decided to keep it wrong color contrast.
 
@@ -34,4 +40,9 @@ I chose a 4 column grid with a 30px margin and a 6 row grid with a 40px margin b
 
 
 ![layout](https://github.com/sdelaserna/DH-110-A6-Interface-Design-System/blob/main/layout.PNG)
-![layout on light mode]
+![layout on light mode](https://github.com/sdelaserna/DH-110-A6-Interface-Design-System/blob/main/layout%20on%20light%20mod.PNG)
+
+## Final Design Choice
+I finally chose the League Spartan Light Mode with 8px rounded corners
+
+## Impression Test (TBC)
