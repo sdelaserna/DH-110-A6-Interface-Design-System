@@ -10,3 +10,10 @@ First, I read the instructions given by Dr. Cho. I used the low-fidelity prototy
 
 ##Links to Figma file
 * [Figma file](https://www.figma.com/file/x16VBvTVYkLmt39Lv6ge37/Assignment-6---Interface-Design?node-id=0%3A1) with all the variations
+
+![overall design proccess](https://github.com/sdelaserna/DH-110-A6-Interface-Design-System/blob/main/overall%20design%20process.PNG)
+
+## Screen Interface Designs
+### Typographic Variations
+
+For my design, I went with sans serif because I wanted the site to be as accessible as possible to anyone and everyone who comes across this page. The three fonts I went with are: League Spartan, Poppins, and Work Sans. I ultimately chose League Spartan because I thought it was an updated version of the font from the original website. 
