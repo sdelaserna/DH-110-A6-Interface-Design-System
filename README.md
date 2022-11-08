@@ -24,7 +24,7 @@ For my design, I went with sans serif because I wanted the site to be as accessi
 
 For the first design, I did sharp corners because I wanted the deisng to have an exactness feel to it because it derives from a school. However, after completing with the 3 shape variations, I think that the softly rounded corners are better. The boxy feeling kinda makes it feel like it's still in the sketchy low-fidelity protoyping stage. Rounded corners has a polished feel to it that's more inviting and appealing to the eyes. 
 
-
+![shape variations](https://github.com/sdelaserna/DH-110-A6-Interface-Design-System/blob/main/roundness%20of%20corners.PNG)
 
 ## Color Palettes
 I just wanted it to be simple and do a light and dark mode of design for people who have their main system. I do admit, I don't think all of the colors picked check off the color contrast checker due to my colors being a warmer tone and on the vibrant side. When I did change it to check off the color contrast, it looked completely different from the feel of the first variation and it did not resemeble the school color's at all. Thus, I decided to keep it wrong color contrast.
