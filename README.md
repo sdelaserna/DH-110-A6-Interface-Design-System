@@ -23,3 +23,10 @@ For my design, I went with sans serif because I wanted the site to be as accessi
 ## Color Palettes
 I just wanted it to be simple and do a light and dark mode of design for people who have their main system. I do admit, I don't think all of the colors picked check off the color contrast checker due to my colors being a warmer tone and on the vibrant side. When I did change it to check off the color contrast, it looked completely different from the feel of the first variation and it did not resemeble the school color's at all. Thus, I decided to keep it wrong color contrast.
 
+![color palettes](https://github.com/sdelaserna/DH-110-A6-Interface-Design-System/blob/main/color%20palettes!.PNG)
+![color contrast light](https://github.com/sdelaserna/DH-110-A6-Interface-Design-System/blob/main/color%20contrast%20light.PNG)
+![color contrast dark](https://github.com/sdelaserna/DH-110-A6-Interface-Design-System/blob/main/color%20contrast%20dark.PNG)
+
+## Layout
+I chose a 4 column grid with a 30px margin and a 6 row grid with a 40px margin because I thought that looked the most efficient to have space between the perimeter of the device and the actual body of information. 
+![layout](https://github.com/sdelaserna/DH-110-A6-Interface-Design-System/blob/main/layout.PNG)
