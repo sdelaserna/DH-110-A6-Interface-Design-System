@@ -42,9 +42,6 @@ I chose a 4 column grid with a 30px margin and a 6 row grid with a 40px margin b
 ![layout](https://github.com/sdelaserna/DH-110-A6-Interface-Design-System/blob/main/layout.PNG)
 ![layout on light mode](https://github.com/sdelaserna/DH-110-A6-Interface-Design-System/blob/main/layout%20on%20light%20mod.PNG)
 
-## Final Design Choice
-I finally chose the League Spartan Light Mode with 8px rounded corners
-
 ## Impression Test
 
 I did an impression test with two of my roommates. I showed the interface for approximately 5 seconds and then asked what they felt from that small time frame--what they liked and didn't like. 
@@ -64,5 +61,13 @@ My second roommate said:
 
 Here is evidence that the impression test was done on November 9, 2022. 
 
+![impression test photo](https://github.com/sdelaserna/DH-110-A6-Interface-Design-System/blob/main/IMG_1611.png)
 
-The final interface design prototype is
+## Final Design Choice
+I finally chose the League Spartan Light Mode with 8px rounded corners.
+
+
+
+## Reflection
+
+I had some reflection notes in the design process section, but I would like to add more to it. I think I would like to visit this project again at a different time to improve the design. I think I want to try a website version and do a more minimalistic version (limit it to one or two colors). Now that I did this process once, I think it will be a lot easier the second time. Despite the challenges and the time consumption of this assignment, I still had a lot of fun and got into the flow. This assignment made me appreciate how much thought, time, effort, and people behind each website and or business.
