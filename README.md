@@ -45,4 +45,24 @@ I chose a 4 column grid with a 30px margin and a 6 row grid with a 40px margin b
 ## Final Design Choice
 I finally chose the League Spartan Light Mode with 8px rounded corners
 
-## Impression Test (TBC)
+## Impression Test
+
+I did an impression test with two of my roommates. I showed the interface for approximately 5 seconds and then asked what they felt from that small time frame--what they liked and didn't like. 
+
+My first roommate said: 
+* Likes the colors
+* Easy to read
+* Likes the visual aid
+* Relevant to the age group
+* Wishes the interface was bigger
+
+My second roommate said:
+* Too many different colors for her
+* Wants a more minimalistic look: one color, but with same shade 
+* Her eyes tend to gravitate to the top
+* The title could be one line or smaller for more efficiency
+
+Here is evidence that the impression test was done on November 9, 2022. 
+
+
+The final interface design prototype is
