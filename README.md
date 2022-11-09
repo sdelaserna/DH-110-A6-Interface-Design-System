@@ -66,6 +66,9 @@ Here is evidence that the impression test was done on November 9, 2022.
 ## Final Design Choice
 I finally chose the League Spartan Light Mode with 8px rounded corners.
 
+![typography league spartan](https://github.com/sdelaserna/DH-110-A6-Interface-Design-System/blob/main/Screen%20Shot%202022-11-09%20at%2012.43.44%20AM.png)
+![corner variations 8px](https://github.com/sdelaserna/DH-110-A6-Interface-Design-System/blob/main/Screen%20Shot%202022-11-09%20at%2012.44.01%20AM.png)
+![final design](https://github.com/sdelaserna/DH-110-A6-Interface-Design-System/blob/main/Screen%20Shot%202022-11-09%20at%2012.44.23%20AM.png)
 
 
 ## Reflection
